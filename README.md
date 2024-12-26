@@ -1,5 +1,15 @@
 # Sample Superstore Dashboard
 
+## Table of Contents
+
+- [Project Overview] (#project-overview)
+- [Data Sources] (#data sources)
+- [Tools] (#tools)
+- [Data Cleaning] (#data cleaning/preparation)
+- [Exploratory Data Analysis ] (#exploratory data analysis)
+- [Results] (#results)
+
+
 ### Project Overview
 
 This data analysis project aims to provide insights into the sales and profit performance of the Super Store. By analyzing various aspects of the sales data, the project seeks to identify profit by region, segment and category while also evaluating regional performance to uncover key business trends.
@@ -37,11 +47,6 @@ The analysis results are summarized as follows:
  1. The company sales shows a consistent increase in total sales, with peak performance observed in the Central and west region.
  2. Copiers is the highest in profit by sub-category.
  3. The Profit by segment is the highest in consumer.
-
-### Recpmmendations
-
-Based on the analysis , we recommend the following actions:
- Invest in 
 
 
 
