@@ -39,7 +39,7 @@ In the initial data preparation phase, we performed the following tasks:
 EDA in Power BI refers to the process of exploring and analyzing a dataset using visualizations and statistical methods to uncover patterns, trends, and relationships before creating a final dashboard.
  1. The Power BI project begins with importing raw data from excel into the tool for analysis and visualization.
  2. It focus on key metrics such as sales, profit, and quantity.
- 3. Visualizations like bar charts and donut chart were used to identify profit by sub=category, region, segments
+ 3. Visualizations like bar charts and donut chart were used to identify profit by subcategory, region, segments
  4. Cards were used for identifying sum of sales, quantity, profit guiding the design of the final Power BI dashboard.
 
 what is the sum of profit by order date?
