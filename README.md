@@ -20,7 +20,7 @@ This data analysis project aims to provide insights into the sales and profit pe
 
 ### Data Sources
 
-Sales Data: The primary dataset used for this analysis is in excel  file, containing detailed information about each sales made by state.
+Sales Data: The primary dataset used for this analysis is in Superstore (excel) file, containing detailed information about each sales made by state.
 
 ### Tools
 
